@@ -1,0 +1,1 @@
+# pv-snow-soiling-calculator
