@@ -1,4 +1,4 @@
-# app.py (v3.3.1) — show exactly Jan–Dec (no extra blank row)
+# app.py
 
 
 import io
